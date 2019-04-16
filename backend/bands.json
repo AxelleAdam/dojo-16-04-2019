@@ -1,0 +1,14 @@
+{
+  "bands": [
+    {
+      "id": 1,
+      "title": "Rammstein",
+      "author": "Loic"
+    },
+    {
+      "id": 2,
+      "title": "Linkin Park",
+      "author": "Loic"
+    }
+  ]
+}
